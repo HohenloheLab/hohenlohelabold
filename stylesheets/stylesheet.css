@@ -290,10 +290,10 @@ Full-Width Styles
 
 /**************/
 .img {
-    margin: 20px;
+    margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+
 }
 
 .img:hover {
