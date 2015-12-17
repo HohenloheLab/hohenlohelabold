@@ -289,7 +289,7 @@ Full-Width Styles
 
 
 /**************/
-.img {
+.img2 {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
@@ -297,11 +297,11 @@ Full-Width Styles
 
 }
 
-.img:hover {
+.img2:hover {
     border: 1px solid #777;
 }
 
-.img img {
+.img2 img {
     width: 110%;
     height: auto;
 }
