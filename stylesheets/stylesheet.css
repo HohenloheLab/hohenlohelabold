@@ -368,6 +368,12 @@ Full-Width Styles
   background: #212121;
 }
 
+#menu_wrap {
+  background: #f2f2f2;
+  border-top: 10px solid #111;
+  border-bottom: 10px solid #111;
+}
+
 
 
 /*******************************************************************************
