@@ -111,6 +111,10 @@ menu {
   word-spacing: 2.25em;
 }
 
+table {
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: #007edf;
