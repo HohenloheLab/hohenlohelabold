@@ -104,6 +104,11 @@ footer p {
 menu {
   font-size: 18px;
   color: #222222;
+  margin: 10px 0;
+  font-weight: 700;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
+  word-spacing: 2em;
 }
 
 a {
