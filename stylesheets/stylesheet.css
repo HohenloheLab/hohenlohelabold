@@ -101,6 +101,11 @@ footer p {
   color: #f2f2f2;
 }
 
+menu {
+  font-size: 18px;
+  color: #222222;
+}
+
 a {
   text-decoration: none;
   color: #007edf;
